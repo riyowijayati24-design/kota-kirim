@@ -37,16 +37,15 @@ Proyek ini dibuat untuk memenuhi tugas pemrograman dan dokumentasi menggunakan G
 
 Fitur Utama
 
-📦 Input Data Pengiriman
+_Input Data Pengiriman
 Input nama pengirim, penerima, alamat, dan deskripsi paket.
-
-🚚 Estimasi Biaya
+_ Estimasi Biaya
 Menghitung biaya kirim berdasarkan jarak atau data tabel.
 
-🎯 Tracking Status
+_Tracking Status
 Status dari Diterima, Dikirim, hingga Selesai.
 
-🗂️ Riwayat Pengiriman
+_Riwayat Pengiriman
 Menyimpan data paket yang sudah dikirim.
 
 Teknologi yang Digunakan
